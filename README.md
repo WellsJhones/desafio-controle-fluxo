@@ -1,6 +1,7 @@
 # Controle de fluxo desafio
 
 O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros.
+devera retornar a contagem no terminal dos numeros de acordo com o resto da subtracao entre os dois parametros.
 
 ### Prerequisites
 
